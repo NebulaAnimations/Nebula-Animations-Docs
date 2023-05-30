@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocuments_nebula_animations_docs=self.webpackChunkdocuments_nebula_animations_docs||[]).push([[1743],{7574:(e,n,a)=>{a.r(n),a.d(n,{default:()=>u});var t=a(7294),l=a(7961);function u(){return t.createElement(l.Z,null,t.createElement("h1",null,"My React page"),t.createElement("p",null,"This is a React page"))}}}]);
