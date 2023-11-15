@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkna_docs_site=self.webpackChunkna_docs_site||[]).push([[1458],{1694:e=>{e.exports=JSON.parse('{"title":"Magic Decal","slug":"/category/magic-decal","permalink":"/category/magic-decal","navigation":{"previous":{"title":"Welcome!","permalink":"/"},"next":{"title":"Introduction","permalink":"/magic-decal/introduction"}}}')}}]);
